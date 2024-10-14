@@ -12,6 +12,12 @@ A chatbot interface that allows users to interact with a chatbot powered by CHAI
 2. Install the dependencies:
 
     pip install -r requirements.txt
+3. Create a .env file and add your API key:
+
+makefile
+
+CHAI_API_KEY=your_api_key_here
+
 
 ## Usage 
 
