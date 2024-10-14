@@ -9,13 +9,14 @@ A chatbot interface that allows users to interact with a chatbot powered by CHAI
    ```bash
    git clone https://github.com/yourusername/chatbot_project.git
    cd chatbot_project
+   
 2. Install the dependencies:
-
-    pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3. Create a .env file and add your API key:
-
-CHAI_API_KEY=your_api_key_here
+   ```bash
+   CHAI_API_KEY=your_api_key_here
 
 
 ## Usage 
